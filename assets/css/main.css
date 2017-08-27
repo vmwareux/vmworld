@@ -3387,6 +3387,10 @@
 				color: #18bfef !important;
 			}
 
+			#venueImage1 {
+				max-width: 80%;
+			}
+
 		@media screen and (max-width: 980px) {
 
 			#header {
